@@ -1,0 +1,9 @@
+.carousel-inner > .item > img {
+  height: 70vh;
+  width: auto;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
